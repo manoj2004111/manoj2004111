@@ -68,6 +68,8 @@
 **Key Learnings:**
 AI Integration, REST APIs, Real-time systems, UI/UX
 
+---
+
 ### 📊 Assessment Management System
 - Full-stack app with **JWT authentication & secure routes**
 - Built responsive dashboard using React.js
