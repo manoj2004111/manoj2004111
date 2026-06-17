@@ -23,10 +23,13 @@
 `Python` `JavaScript` `SQL`
 
 ### 🌐 Web Development
-`HTML5` `CSS3` `javascript` `React.js(Vite)` `Node.js` `Express.js`
+-HTML5,CSS3,javascript
+-React.js(Vite),Node.js,Express.js
+-REST API Development
+-JWT Authentication
 
 ### 🗄️ Database
-`MySQL`
+`MySQL` `MongoDB`
 
 ### ⚙️ Tools
 `Git` `GitHub` `VS Code`
