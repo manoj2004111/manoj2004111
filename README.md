@@ -61,10 +61,10 @@
 ---
 
 ### Contract Assistant AI Chatbot
--Built an **AI-powered chatbot** using React + Django
--Integrated **Ollama (Llama 2 7B)** for intelligent responses
--Implemented **real-time chat system & API handling**
--Focused on smooth UX and conversational flow
+- Built an **AI-powered chatbot** using React + Django
+- Integrated **Ollama (Llama 2 7B)** for intelligent responses
+- Implemented **real-time chat system & API handling**
+- Focused on smooth UX and conversational flow
 **Key Learnings:**
 AI Integration, REST APIs, Real-time systems, UI/UX
 
