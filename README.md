@@ -36,6 +36,19 @@
 
 ---
 
+## 💼 Internships
+
+## Py Spider
+- Completed training in Python Full Stack and MERN Stack Development.
+- Built frontend and backend apps using React, Node.js, Express.js.
+- Developed REST APIs and integrated databases.
+
+## Centre of Excellence, CMRIT
+- Developed a shopping website using HTML, CSS, and JavaScript.
+- Implemented product browsing and cart functionality
+
+---
+
 ## 🚀 Projects
 
 ### 🖱️ AI Virtual Mouse
@@ -73,18 +86,10 @@ AI Integration, REST APIs, Real-time systems, UI/UX
 
 ---
 
-## 💼 Internship
-
-### 🏢 Py Spider
-- Python Full Stack & MERN Stack training  
-- Built frontend & backend applications  
-- Developed REST APIs and integrated databases  
-
----
-
 ## 📜 Certifications
-- 🏆 Python Full Stack – PySpider  
-- 🏆 MERN Stack – PySpider  
+- Python Full Stack – PySpider (2026) 
+- MERN Stack – PySpider(2026)
+- VLSI Design Engineering – Rooman Technologies (2025) 
 
 ---
 
